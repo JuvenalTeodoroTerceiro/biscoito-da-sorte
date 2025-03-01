@@ -13,13 +13,13 @@ class App extends Component{
 
         this.quebraBiscoito = this.quebraBiscoito.bind(this);
 
-        this.frases = ['Siga os bons e aprenda com eles.', 'O bom-senso vale mais do que muito conhecimento.', 
- 'O riso é a menor distância entre duas pessoas.', 
- 'Deixe de lado as preocupações e seja feliz.',
- 'Realize o óbvio, pense no improvável e conquiste o impossível.',
- 'Acredite em milagres, mas não dependa deles.',
- 'A maior barreira para o sucesso é o medo do fracasso.'];
-
+     this.frases = ['Siga os bons e aprenda com eles.', 
+'O riso é a menor distância entre duas pessoas.', 
+'Realize o óbvio, pense no improvável e conquiste o impossível.',
+'Acredite em milagres, mas não dependa deles.',
+'A maior barreira para o sucesso é o medo do fracasso.',
+'Amar é doloroso, mas vale o esforço',
+'As vezes, o que você precisa é apenas de um bom descanso'];
     }
 
     quebraBiscoito(){
